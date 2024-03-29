@@ -154,7 +154,20 @@
 
 // addNumber ()
 
-//  6 task finished  
+//  6 task finished   
+
+
+//  7 task starts  shartini yaxshi tushunmadim ustoz function yaratim va sondan tashkil topgan object yaratim endi functionga berilgan 9 ni ham boshidan ham oxiridan qosh debdi shuni nima qilish kerak edi 
+
+
+// function num (param) {
+//     let number = {number1 : 12, number2: 32} 
+
+// }
+
+// num (9) 
+
+
 
 
 // 8 task   Ixtiyoriy fucntion va value lari sonlardan iborat bo'lgan object yaratilsin shu shart ekan ustoz tushunishim bo'yicha funciton yaratim va object yarattim objectni valuesi sondan yashkil topgan boldi bu masalani hato demang ustoz chunki shartini ozi tushunarsiz bolgan 
@@ -172,6 +185,7 @@
 
 
 //  8 task finished   
+
 
 
 
